@@ -13,5 +13,6 @@ Descriptive name for activity and can take one of the following Values:
 * WALKING_UPSTAIRS
 
 ###3. measureType
+The set of measures from the raw data where mean() or std() functions have been applied
 
 ###4. meanObservedValue
