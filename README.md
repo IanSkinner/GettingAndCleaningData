@@ -1,5 +1,12 @@
 # GettingAndCleaningData
-## Getting And Cleaning Data - Course Project
+## Course Project
 
-This is TExt
-fdsf
+### Background
+tbc
+
+### Pre Requisites
+tbc
+
+### Process Flow
+tbc
+
