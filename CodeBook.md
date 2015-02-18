@@ -1,7 +1,7 @@
 ## Data Dictionary
 
 ###1. subject
-Identifier for each individual observed in the range 1..30
+Anonymous identifier for each individual observed in the range 1..30
   
 ###2. activity_label
 Descriptive name for activity that was undertaken at the time of measurement and can take one of the following Values:
@@ -13,7 +13,7 @@ Descriptive name for activity that was undertaken at the time of measurement and
 * WALKING_UPSTAIRS
 
 ###3. measureType
-The set of measures from the raw data where mean() or std() functions have been applied
+The set of measures from the raw data where mean() or std() functions have been applied   
 
 ###4. meanObservedValue
 The mean value of either the mean() or std() variable across all observations for the Subject, Activity and Measure type combuination. The measuretype column indicates what the value pertains to.
