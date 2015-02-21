@@ -23,5 +23,5 @@ The process flow of the program is as follows:
 6. A subset of the data is taken to only include subject, activity, and the mean() and std() measurements
 7. An activity description is added via *merge* to the activity lookup table
 8. Data is then mapped to a deep(long) structure via *melt*
-9. **ddply* is then employed to summarise by subject, activity label and measurment type and a mean calculated for th observations 
-10. Data is then ouput via *write.table* to a text file rady for upload
+9. *ddply* is then employed to summarise by subject, activity label and measurment type and a mean calculated for th observations 
+10. Data is then ouput via *write.table* to a text file ready for upload
