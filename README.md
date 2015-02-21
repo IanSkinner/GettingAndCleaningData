@@ -3,7 +3,7 @@
 
 ### Background
 
-The code in the runanalysis.R file creates a tidy data set of the supplied data for *Human Activity Recognition UsingSmartphones*. THe program will create a tidy 'long' dataset that contains mean values for all observations in the dataset where mean() or std() functions have been applied. THe granulairity of the dataset is one row per subjedt, per, sctivity, per measuement. I have decied to exlude the meanfreq() measuremnts from the dataset as my intepretation of the question was such that I did not see the need to include this. 
+The code in the runanalysis.R file creates a tidy data set of the supplied data for *Human Activity Recognition UsingSmartphones*. THe program will create a tidy 'long' dataset that contains mean values for all observations in the dataset where mean() or std() functions have been applied. The granulairity of the dataset is one row per subject, per, sctivity, per measuement. I have decied to exlude the meanfreq() measuremnts from the dataset as my intepretation of the question was such that I did not see the need to include this. 
 
 ### Pre Requisites
 To allow this program to run successfully the following must be done prior to execution:
