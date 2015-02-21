@@ -15,5 +15,6 @@ To allow this program to run successfully the following must be done prior to ex
 
 The process flow of the program is as follows:
 
-1. 
-
+1. Data is read in via *read.table*  from the tables containing measurement data, the relevant subjects for the data and the features and activity descriptive data
+2. Column names are applied from the features data to the train and test data
+3. 
